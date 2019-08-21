@@ -18,15 +18,15 @@ const module_listdata={
         listuid:0
       },
       {
-        title:"回家要推低",
+        title:"点击修改内容",
         content:"苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜",
         ctime:"2019-08-10 17:53",
         done:1,
         listuid:1
       },
       {
-        title:"下班去买菜",
-        content:"苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜苹果 香蕉 猪肉 青菜",
+        title:"长按标记完成",
+        content:"长按标记完成，出现“Done”图标",
         ctime:"2019-08-09 16:53",
         done:0,
         listuid:2
